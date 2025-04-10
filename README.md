@@ -5,6 +5,9 @@ fix net.Interface() and net.InterfaceAddrs() in Android 11+
 
 
 How to use :
+
+``` go get github.com/hossinasaadi/anet@main ```
+
 ```go
 import "github.com/hossinasaadi/anet"
 
